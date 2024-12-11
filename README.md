@@ -1,6 +1,6 @@
 Hello
 
-Im @instentbanjo
+Im instentbanjo
 
 I had a problem when trying to run microbit's [makecode](makecode.microbit.org) locally when using the Dockerfile from https://github.com/leejoneshane/docker-microbit. 
 
