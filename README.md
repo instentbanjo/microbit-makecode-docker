@@ -15,4 +15,5 @@ So now this is my version of implementing this solution ._.
 ``` bash
 docker run -d --name makecode-server-1.2 -p 3232:3232 -p 3233:3233 ghcr.io/instentbanjo/microbit-makecode-docker:1.2
 ```
+It will take about a minute for the site to be ready
 
